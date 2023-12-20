@@ -32,9 +32,3 @@ For support or general inquiries, you can contact me at @FireWalkWithMe99 on Dis
 ## Disclaimer
 This plugin is developed independently and is not officially endorsed by the developers of RuneScape or RuneLite.
 
-## License
-[Specify the license under which your plugin is released, if applicable.]
-
----
-
-Remember to replace placeholders like "[Your Contact Information or Support Channel]" with your actual contact information or preferred method of communication. Also, ensure you're following any guidelines set by RuneLite for plugin development and community contributions.
