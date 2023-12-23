@@ -15,7 +15,7 @@ public class ExamplePluginTest
             ExternalPluginManager.loadBuiltin(ExamplePlugin.class);
             logger.info("ExamplePlugin loaded successfully.");
 
-            // Process custom arguments
+            // Process custom arguments //figure out how to actually program this
             processArguments(args);
 
             // Start RuneLite
